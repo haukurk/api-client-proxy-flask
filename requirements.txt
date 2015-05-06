@@ -1,0 +1,6 @@
+flask
+flask-wtf
+urllib3
+fabric
+blinker
+raven
